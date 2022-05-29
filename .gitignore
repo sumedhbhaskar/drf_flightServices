@@ -1,2 +1,3 @@
-flightServices/__pycache__.py
-flightApp/migrations
+flightServices/__pycache__/*
+flightApp/migrations/*
+flightApp/__pycache__/*
